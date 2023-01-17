@@ -1,7 +1,7 @@
 Binary Search have three different templates to solve various problems
 
 Template -1 :
-'''
+
 int binarySearch(vector<int>& nums, int target){
   if(nums.size() == 0)
     return -1;
@@ -17,4 +17,4 @@ int binarySearch(vector<int>& nums, int target){
 
   // End Condition: left > right
   return -1;
-}'''
+}
